@@ -7,7 +7,7 @@
 
 <h1>Hey there, I'm Joey A 👋</h1>
 
-<a href="https://github.com/joeyanil"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=760&height=45&lines=Full-stack+developer;AI+%26+Data+Science;Security-minded+engineer;Student+%C2%B7+Builder+%C2%B7+Always+learning" alt="Typing SVG"></a>
+<a href="https://github.com/joeyanil"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=760&height=45&lines=Full-stack+developer;AI+%26+Data+Science;Security-minded+engineer;Motion+graphics+%26+design;Student+%C2%B7+Builder+%C2%B7+Always+learning" alt="Typing SVG"></a>
 
 <br><br>
 
@@ -19,35 +19,41 @@
 
 <br>
 
-<table>
-<tr>
-<td width="65%" valign="top">
-
-### 👨‍💻 About Me
-
-I'm a **student and working developer** who enjoys building across the stack: full-stack web apps, data science, AI, and security.
-
-- 🌐 Portfolio: [joey-a.pages.dev](https://joey-a.pages.dev/)
-- 🧠 Exploring: AI, machine learning and data-driven products
-- 🔐 Curious about: security, how systems break and how to protect them
-- 🚀 Goal: ship clean, useful software and keep leveling up
-- 📫 Reach me: [joyeanil23@gmail.com](mailto:joyeanil23@gmail.com)
-
-</td>
-<td width="35%" align="center" valign="middle">
+<div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="art/about-dark.svg">
-  <img alt="whoami terminal card" src="art/about-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="art/title-about-dark.svg">
+  <img alt="About Me" src="art/title-about-light.svg" width="100%">
 </picture>
 
-</td>
-</tr>
-</table>
+</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="art/focus-dark.svg">
+  <img align="right" width="36%" alt="Focus areas: AI/ML, Data, Security, Web, Motion" src="art/focus-light.svg">
+</picture>
+
+I'm a **student and working developer** who enjoys building across the stack: full-stack web apps, data science, AI, security, and motion graphics.
+
+- 🌐 **Portfolio:** [joey-a.pages.dev](https://joey-a.pages.dev/)
+- 🧠 **Exploring:** AI, machine learning and data-driven products
+- 🔐 **Curious about:** security, how systems break and how to protect them
+- 🎬 **Also into:** motion graphics and visual design
+- 🚀 **Goal:** ship clean, useful software and keep leveling up
+- 📫 **Reach me:** [joyeanil23@gmail.com](mailto:joyeanil23@gmail.com)
+
+<br clear="right">
 
 <br>
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="art/title-stack-dark.svg">
+  <img alt="Tech Stack" src="art/title-stack-light.svg" width="100%">
+</picture>
+
+</div>
 
 <div align="center">
 
@@ -90,60 +96,73 @@ I'm a **student and working developer** who enjoys building across the stack: fu
 
 <br>
 
-<h2 align="center">📊 GitHub Stats</h2>
+<br>
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=joeyanil&show_icons=true&hide_border=true&border_radius=16&bg_color=0B1020&title_color=38BDF8&icon_color=8B5CF6&text_color=C7D2FE&ring_color=38BDF8&count_private=true&include_all_commits=true">
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=joeyanil&show_icons=true&hide_border=true&border_radius=16&bg_color=F8FAFF&title_color=0284C7&icon_color=7C3AED&text_color=1E293B&ring_color=0284C7&count_private=true&include_all_commits=true" width="49%">
+  <source media="(prefers-color-scheme: dark)" srcset="art/title-terminal-dark.svg">
+  <img alt="Terminal" src="art/title-terminal-light.svg" width="100%">
 </picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=joeyanil&layout=compact&hide_border=true&border_radius=16&bg_color=0B1020&title_color=38BDF8&text_color=C7D2FE&langs_count=8">
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joeyanil&layout=compact&hide_border=true&border_radius=16&bg_color=F8FAFF&title_color=0284C7&text_color=1E293B&langs_count=8" width="49%">
-</picture>
+
+</div>
+
+<div align="center">
+
+<img src="art/terminal.svg" alt="Animated terminal: boots, introduces Joey A, then plays snake automatically" width="100%">
+
+</div>
 
 <br>
 
+<div align="center">
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=joeyanil&hide_border=true&border_radius=16&background=0B1020&ring=38BDF8&fire=8B5CF6&currStreakLabel=38BDF8&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=C7D2FE&dates=94A3B8">
-  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=joeyanil&hide_border=true&border_radius=16&background=F8FAFF&ring=0284C7&fire=7C3AED&currStreakLabel=0284C7&currStreakNum=0F172A&sideNums=0F172A&sideLabels=334155&dates=64748B" width="70%">
+  <source media="(prefers-color-scheme: dark)" srcset="art/title-stats-dark.svg">
+  <img alt="GitHub Stats" src="art/title-stats-light.svg" width="100%">
 </picture>
 
-<br>
+</div>
+
+<div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=joeyanil&bg_color=0B1020&color=C7D2FE&line=38BDF8&point=8B5CF6&area=true&area_color=8B5CF6&hide_border=true&hide_title=true">
-  <img alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=joeyanil&bg_color=F8FAFF&color=1E293B&line=0284C7&point=7C3AED&area=true&area_color=7C3AED&hide_border=true&hide_title=true" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="art/stats-dark.svg">
+  <img alt="GitHub stats" src="art/stats-light.svg" width="100%">
 </picture>
 
 </div>
 
 <br>
 
-<h2 align="center">🐍 Contribution Snake</h2>
+<div align="center">
 
-<!--
-  SNAKE SETUP (one-time):
-  1. Keep .github/workflows/snake.yml from this folder in your profile repo.
-  2. Repo Settings -> Actions -> General -> Workflow permissions -> "Read and write permissions".
-  3. Go to the Actions tab -> "Generate Contribution Snake" -> Run workflow.
-  4. It creates an "output" branch with the SVGs used below, and refreshes every 12 hours.
--->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="art/title-pacman-dark.svg">
+  <img alt="Contribution Pac-Man" src="art/title-pacman-light.svg" width="100%">
+</picture>
+
+</div>
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joeyanil/joeyanil/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joeyanil/joeyanil/output/github-snake.svg">
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/joeyanil/joeyanil/output/github-snake.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="art/pacman-dark.svg">
+  <img alt="Pac-Man eating the contribution graph" src="art/pacman-light.svg" width="100%">
 </picture>
 
 </div>
 
 <br>
 
-<h2 align="center">🤝 Connect With Me</h2>
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="art/title-connect-dark.svg">
+  <img alt="Connect" src="art/title-connect-light.svg" width="100%">
+</picture>
+
+</div>
 
 <div align="center">
 
